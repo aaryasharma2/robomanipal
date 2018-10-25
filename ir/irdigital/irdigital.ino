@@ -1,3 +1,9 @@
+#define LS 2      // left sensor
+#define RS 3      // right sensor
+#define LM1 4       // left motor
+#define LM2 5       // left motor
+#define RM1 6       // right motor
+#define RM2 7       // right motor
 void setup()
 {
   pinMode(LS, INPUT);
