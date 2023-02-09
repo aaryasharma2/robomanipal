@@ -20,3 +20,5 @@ Import the scene from Blender into the project.
 Set up the camera position and viewing angle to showcase the amusement park in space.
 Implement the lighting for the sun and other objects using OpenGL lighting functions.
 Render the scene using OpenGL.
+edit:youtube link
+https://www.youtube.com/@BehindTheScenesFilms
